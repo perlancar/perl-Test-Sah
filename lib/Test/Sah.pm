@@ -1,6 +1,6 @@
 package Test::Sah;
 
-use 5.010;
+use 5.010001;
 use strict;
 use warnings;
 #use Log::Any '$log';
@@ -79,4 +79,3 @@ L<Sah>
 L<Data::Sah>
 
 =cut
-
