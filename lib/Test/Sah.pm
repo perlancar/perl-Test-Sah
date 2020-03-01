@@ -76,8 +76,10 @@ Test that C<$data> does not validate to C<$schema>.
 
 =head1 SEE ALSO
 
-L<Sah>
+L<Test::Sah::Schema> to test Sah schema modules.
 
 L<Data::Sah>
+
+L<Sah>
 
 =cut
