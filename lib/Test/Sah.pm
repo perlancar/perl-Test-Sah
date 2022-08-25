@@ -1,16 +1,16 @@
 package Test::Sah;
 
-# AUTHORITY
-# DATE
-# DIST
-# VERSION
-
 use strict;
 use warnings;
 #use Log::Any '$log';
 
 use Data::Sah qw(gen_validator);
 use Test::Builder;
+
+# AUTHORITY
+# DATE
+# DIST
+# VERSION
 
 my $Test = Test::Builder->new;
 
